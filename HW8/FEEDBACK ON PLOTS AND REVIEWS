@@ -1,0 +1,46 @@
+your reviews are insightful, helpfula nd encouraging - good job! 10/10
+
+NOTES ON YOUR PLOT
+==================
+
+too many caegories make it hard to read in a single plot
+
+the year label is far too small
+
+it is not clear what the touch of red means at the top of the plot
+
+the color is lost in color blind cases to 10% of males cannot read your plot
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+================================
+
+kikyoianima
+===========
+
+nice color scheme, robust to color blindness 
+
+the hour labels are too small
+
+"hour" should be "time of day" to comply to "weekday"
+
+Xiaoge270
+=======
+3D completely confuses the message. 3D plus obstruction and overlap makes the plot unreadable. 
+
+color unexplained
+
+gender is not a fractional value so all but 0 and 1 tick labels should be removed and 0 and 1 substituted with male and female
+
+class is also integer: one must remove the .5 labels
+
+mcleanalec
+==========
+
+very small axis labels
+
+background choice is distracting and reduces the visibility of the line, which however remains visible enough
+
+it is an extremely simple plot, which however shows a very strong and interesging trend.
+
+(it was wrongly label HW7)
